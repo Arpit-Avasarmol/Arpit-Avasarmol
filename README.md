@@ -2,9 +2,9 @@
 
 <!-->
 
-- 🎓 I’m currently a final year student at Indian Institute of Technology(IIT) Roorkee in the Department of Data Science and Artificial Intelligence
-- 🔭 Courses: Deep Learning, Machine Learning, Computer Vision, NLP, and Time Series, Data Structures and Algorithms, Principle of Database Systems
-- 🌱 Thesis Topic: Diffusion Models and their applications in the medical field
+- 🎓 Studying Data Science and Artificial Intelligence, Indian Institute of Technology(IIT) Roorkee 
+- 🔭 Academic Courses: Deep Learning, Machine Learning, Computer Vision, NLP, and Time Series, Data Structures and Algorithms, Principle of Database Systems
+- 🌱 Thesis Topic: Diffusion Models for Brain Anomaly Detection (Gen-AI)
 - ⚡ Frameworks: PyTorch, TensorFlow, Keras, Git, mySQL
 - 💻 Libraries: SpaCY, Scikit-Learn, NLTK, Transformer, NumPy, Pandas
 - 😄 Workex: Worked as a Programmer Analyst Trainee at Cognizant Technology Solutions
